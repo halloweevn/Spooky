@@ -1,4 +1,5 @@
 local Codes = {
+    "secretcodeinmain",
     "HappyNewYear2023",
     "RifleWinter2022",
     "RevolverWinter2022",
